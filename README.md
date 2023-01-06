@@ -7,3 +7,6 @@ and Nodemon.
 npm start or
 
 node index.js
+
+
+POSTMAN IS NEEDED.
