@@ -7,4 +7,4 @@ node index.js
 
 **INSTALL POSTMAN, NODE.JS, EXPRESS**
 
-The information provided avoids the server from crashing at Random-Rates, make sure to include Propor Security Fixes, to avoid Data-RTC Leak.
+The information provided avoids the server from crashing at Random-Rates
